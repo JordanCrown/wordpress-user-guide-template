@@ -13,3 +13,9 @@ Setting the page's parent will update the URL structure to that page to behave a
 If multiple templates are available in your theme, you have the option of selecting which page template to use. This will determine how the content of the page is laid out on the front end of the website. This may also affect what kind of additional functionality is added to the page.
 
 The *Order* field controls the custom sorting mechanism for pages at the same level. In other words, all sibling pages can have their natural order set by defining the desired index for each page in the collection in ascending order. Please note, this may not affect the order in which the pages are presented in navigation menus, as those are controlled independently.
+
+## Featured Image
+
+The featured image may be used to show up at the top of the website page itself. You can set a featured image by clicking the *Set featured image* link and uploading/selecting an image from the media manager dialog window.
+
+![Featured Image Meta Box](Screen Shot 2016-01-12 at 2.56.29 PM.png)
