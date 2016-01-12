@@ -17,4 +17,5 @@
 * [Pages](pages.md)
    * [Page Fields](page_fields.md)
 * [Media Library](media_library.md)
+   * Editing Media
 
