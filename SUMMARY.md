@@ -10,4 +10,5 @@
    * [All Posts Table](all_posts_table.md)
    * [Post Editor](post_editor.md)
    * [Taxonomy Term Manager](taxonomy_term_manager.md)
+* Posts
 
