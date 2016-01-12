@@ -11,5 +11,5 @@
    * [Post Editor](post_editor.md)
    * [Taxonomy Term Manager](taxonomy_term_manager.md)
 * [Posts](posts.md)
-   * Post Fields
+   * [Post Fields](post_fields.md)
 
