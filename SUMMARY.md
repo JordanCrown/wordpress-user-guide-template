@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* WordPress Concepts
+* [WordPress Concepts](wordpress_concepts.md)
 
