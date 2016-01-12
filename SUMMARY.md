@@ -20,4 +20,5 @@
    * [Editing Media](editing_media.md)
 * [Forms](forms.md)
    * [Form Editor](form_editor.md)
+   * Form Settings
 
