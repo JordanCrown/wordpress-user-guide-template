@@ -1,3 +1,3 @@
 # WordPress Updates
 
-The *WordPress Updates* page, located under the *Dashboard* admin menu item, will list any pending updates available for your site’s WordPress core and installed plugins. You can view details of the available updates as well as initiate the update process from this screen. **It is highly recommended you back up your site before performing any updates in the case of things breaking.**
+The *WordPress Updates* page, located under the *Dashboard* admin menu item, will list any pending updates available for your site's WordPress core and installed plugins. You can view details of the available updates as well as initiate the update process from this screen. **It is highly recommended you back up your site before performing any updates in the case of things breaking.**
