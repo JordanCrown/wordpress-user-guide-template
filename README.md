@@ -18,3 +18,8 @@ This user guide was prepared specially for {Client Name} to be used with your ne
 
 * [Dashboard / Admin Interface](admin_interface.md)
     * WordPress Admin Dashboard
+
+### Other Notes
+
+* [Posts / Post Fields](post_fields.md)
+    * Include any custom fields added.
