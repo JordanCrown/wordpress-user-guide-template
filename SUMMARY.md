@@ -9,4 +9,5 @@
 * [Managing Content Types](managing_content_types.md)
    * [All Posts Table](all_posts_table.md)
    * [Post Editor](post_editor.md)
+   * Taxonomy Term Manager
 
