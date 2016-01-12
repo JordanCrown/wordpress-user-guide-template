@@ -6,9 +6,15 @@ This user guide was prepared specially for {Client Name} to be used with your ne
 
 ### Text Placeholders
 
-* [WordPress Concepts](wordpress_concepts.md) (1)
-* [User Login](user_login.md) (1)
+* [Introduction](README.md)
+    * {Client Name}
+* [WordPress Concepts](wordpress_concepts.md)
+    * {Post Type} * 3
+    * {Description} * 3
+* [User Login](user_login.md)
+    * {sitename.com}
 
 ### Image Placeholders
 
-* [Dashboard / Admin Interface](admin_interface.md) (1)
+* [Dashboard / Admin Interface](admin_interface.md)
+    * 
