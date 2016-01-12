@@ -35,7 +35,7 @@ Taxonomies on your site have been set up to be relevant to types of posts with w
 
 ### Widgets
 
-Content that you want to behave independently of a page’s main content can be stored in various types of widgets. This may include links to recent blog posts, a site search form, or some free-form content.
+Content that you want to behave independently of a page's main content can be stored in various types of widgets. This may include links to recent blog posts, a site search form, or some free-form content.
 
 Your theme has been configured with a set of areas where these widgets can be placed. These widget areas are utilized by different templates on your site based on the context of the page’s main content.
 
@@ -43,8 +43,8 @@ Your theme has been configured with a set of areas where these widgets can be pl
 
 All the different pieces of content on your site are linked together through a set of navigation menu elements. These menus are a collection of links to pages, posts, categories, custom links, or other types of content. Menu items may be organized hierarchically to establish a level of importance between content.
 
-Menus can be attributed to a specific menu location within your theme. For example, a custom menu can be built and be marked to be used as the navigation in the site’s header.
+Menus can be attributed to a specific menu location within your theme. For example, a custom menu can be built and be marked to be used as the navigation in the site's header.
 
 ### Settings
 
-For everything else, your WordPress site can be configured through various sets of options. Settings fields, such as for your site’s title or the page defined as your homepage, are stored independently from the rest of the site’s content.
+For everything else, your WordPress site can be configured through various sets of options. Settings fields, such as for your site's title or the page defined as your homepage, are stored independently from the rest of the site's content.
