@@ -1,3 +1,3 @@
 # Forms
 
-Contact forms on your site are managed through the Gravity Forms plugin. This is a premium, third-party plugin that allows site administrators to create forms, manage their fields, and set up confirmations and notifications. Submissions to these forms are stored within the WordPress database and can be viewed from the admin panel. All form controls are located in the main admin navigation, under the Forms menu item.
+Contact forms on your site are managed through the *Gravity Forms* plugin. This is a premium, third-party plugin that allows site administrators to create forms, manage their fields, and set up confirmations and notifications. Submissions to these forms are stored within the WordPress database and can be viewed from the admin panel. All form controls are located in the main admin navigation, under the *Forms* menu item.
