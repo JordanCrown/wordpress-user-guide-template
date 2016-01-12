@@ -4,7 +4,7 @@ This user guide was prepared specially for {Client Name} to be used with your ne
 
 ## Author Notes - **REMOVE BEFORE PUBLISHING**
 
-### Text Placeholders
+### Page-Specific Notes
 
 * [Introduction](README.md)
     * {Client Name}
@@ -13,13 +13,13 @@ This user guide was prepared specially for {Client Name} to be used with your ne
     * {Description} * 3
 * [User Login](user_login.md)
     * {sitename.com}
-
-### Image Placeholders
-
 * [Dashboard / Admin Interface](admin_interface.md)
-    * WordPress Admin Dashboard
+    * "WordPress Admin Dashboard" image placeholder
+* [Posts / Post Fields](post_fields.md)
+    * Include any custom fields added.
+* [Pages / Page Fields](page_fields.md)
+    * Include any custom fields added.
 
 ### Other Notes
 
-* [Posts / Post Fields](post_fields.md)
-    * Include any custom fields added.
+* Add new chapters/articles for custom post types included as well as custom fields used.
