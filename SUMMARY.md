@@ -24,5 +24,5 @@
    * [Confirmations](confirmations.md)
    * [Notifications](notifications.md)
    * [Entries](entries.md)
-   * Exporting Form Submissions
+   * [Exporting Form Submissions](exporting_form_submissions.md)
 
