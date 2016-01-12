@@ -12,4 +12,6 @@ One of the other options you'll see when hovering over a post is the *Quick Edit
 
 ![Quick Edit Form](Screen Shot 2016-01-12 at 2.14.44 PM.png)
 
+---
+
 [^1] A post’s slug is what’s used to determine the URL to the particular post’s page on the website.
