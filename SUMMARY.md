@@ -5,4 +5,5 @@
 * [User Login](user_login.md)
 * [Dashboard](dashboard.md)
    * [Admin Interface](admin_interface.md)
+   * WordPress Updates
 
