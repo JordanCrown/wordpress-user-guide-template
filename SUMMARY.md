@@ -12,5 +12,5 @@
    * [Taxonomy Term Manager](taxonomy_term_manager.md)
 * [Posts](posts.md)
    * [Post Fields](post_fields.md)
-   * Categories
+   * [Categories](categories.md)
 
