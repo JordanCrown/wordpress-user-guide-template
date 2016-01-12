@@ -1,4 +1,3 @@
-My Awesome Book
-=======
+# WordPress User Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This user guide was prepared specially for [Client Name] to be used with your new WordPress website. This guide will cover the basics of content management and site configuration within the WordPress administration.
