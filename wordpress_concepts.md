@@ -14,9 +14,9 @@ WordPress’ core post types include:
 
 Additionally, your site has been customized to include the following types of posts:
 
-* **Post Type:** Description
-* **Post Type:** Description
-* **Post Type:** Description
+* **{Post Type}:** {Description}
+* **{Post Type}:** {Description}
+* **{Post Type}:** {Description}
 
 ### Comments
 
