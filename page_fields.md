@@ -1,2 +1,3 @@
 # Page Fields
 
+In addition to the standard title, content, and publish field groups outlined in [*Managing Content Types*](managing_content_types.md) section previously, pages have several field groups specific to their post type. The following sections will outline the basics of the main sections unique to the page editor form. Keep in mind, if some of the panels are not showing up for you, they may just be toggled off in the Screen Options tab at the top right of the page.
