@@ -6,4 +6,5 @@
 * [Dashboard](dashboard.md)
    * [Admin Interface](admin_interface.md)
    * [WordPress Updates](wordpress_updates.md)
+* Managing Content Types
 
