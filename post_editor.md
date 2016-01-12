@@ -30,7 +30,7 @@ Paired with the content editor fields, you'll usually find buttons for adding me
 
 Clicking on the *Add Media* button will open up the media library dialog window where you can upload, select, edit, and embed images, videos, and other types documents into your post's content.
 
-![Media Manager Dialog Window](Screen Shot 2016-01-12 at 2.23.01 PM.png)
+![Media Manager Dialog Window](Screen Shot 2016-01-12 at 2.30.47 PM.png)
 
 Once you've selected media to embed, you can edit the title or provide some alt text or a caption to be included. Once you're all set, hit the *Insert into post* button and the media will show up in the content editor.
 
@@ -38,7 +38,7 @@ There's also an option to embed a collection of images into your content using t
 
 Clicking the *Add Form* button above the content editor will open up the form insert dialog window.
 
-![Insert Forms Dialog Window](Screen Shot 2016-01-12 at 2.23.42 PM.png)
+![Insert Forms Dialog Window](Screen Shot 2016-01-12 at 2.31.15 PM.png)
 
 Select from the forms that have been created in *Forms* section of the WordPress admin to embed directly in your content. You may also configure some options that would affect the presentation and behavior of the form when viewing on the website.
 
