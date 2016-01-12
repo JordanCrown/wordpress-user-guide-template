@@ -17,4 +17,4 @@ This user guide was prepared specially for {Client Name} to be used with your ne
 ### Image Placeholders
 
 * [Dashboard / Admin Interface](admin_interface.md)
-    * 
+    * WordPress Admin Dashboard
