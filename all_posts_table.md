@@ -1,0 +1,2 @@
+# All Posts Table
+
