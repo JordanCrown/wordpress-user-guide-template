@@ -7,4 +7,5 @@
    * [Admin Interface](admin_interface.md)
    * [WordPress Updates](wordpress_updates.md)
 * [Managing Content Types](managing_content_types.md)
+   * All Posts Table
 
