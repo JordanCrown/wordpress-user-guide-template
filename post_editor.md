@@ -48,6 +48,6 @@ The *Publish* panel contains miscellaneous options related to the state of the p
 
 ![Publish Meta Box](Screen Shot 2016-01-12 at 2.29.25 PM.png)
 
----
+
 
 [^1]: What You See is What You Get
