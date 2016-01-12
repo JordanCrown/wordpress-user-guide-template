@@ -13,5 +13,5 @@
 * [Posts](posts.md)
    * [Post Fields](post_fields.md)
    * [Categories](categories.md)
-   * Tags
+   * [Tags](tags.md)
 
