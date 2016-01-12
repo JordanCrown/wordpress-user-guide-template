@@ -44,6 +44,6 @@ The *Author* field allows you to reassign the user for which the post should be 
 
 ![Author Meta Box](Screen Shot 2016-01-12 at 2.59.51 PM.png)
 
----
+
 
 [^1]: Trackbacks and pingbacks are methods of notifying systems that their content has been referenced on external sites.
