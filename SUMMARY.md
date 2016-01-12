@@ -23,4 +23,5 @@
    * [Form Settings](form_settings.md)
    * [Confirmations](confirmations.md)
    * [Notifications](notifications.md)
+   * Entries
 
