@@ -22,4 +22,5 @@
    * [Form Editor](form_editor.md)
    * [Form Settings](form_settings.md)
    * [Confirmations](confirmations.md)
+   * Notifications
 
