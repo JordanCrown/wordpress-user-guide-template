@@ -28,4 +28,5 @@
 * [Comments](comments.md)
 * [Appearance](appearance.md)
 * [Plugins](plugins.md)
+* Users
 
