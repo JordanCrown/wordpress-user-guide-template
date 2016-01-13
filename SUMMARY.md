@@ -33,5 +33,5 @@
    * [Managing User Details](managing_user_details.md)
 * [Tools](tools.md)
 * [Settings](settings.md)
-* Shortcodes
+* [Shortcodes](shortcodes.md)
 
