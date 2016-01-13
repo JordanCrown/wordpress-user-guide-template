@@ -36,4 +36,5 @@
 * [Shortcodes](shortcodes.md)
    * [[row] and [col]](row_and_col.md)
    * [[btn]](btn.md)
+   * [icon]
 
