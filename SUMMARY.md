@@ -27,4 +27,5 @@
    * [Exporting Form Submissions](exporting_form_submissions.md)
 * [Comments](comments.md)
 * [Appearance](appearance.md)
+* Plugins
 
