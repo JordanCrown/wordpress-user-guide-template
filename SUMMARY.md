@@ -25,5 +25,5 @@
    * [Notifications](notifications.md)
    * [Entries](entries.md)
    * [Exporting Form Submissions](exporting_form_submissions.md)
-* Comments
+* [Comments](comments.md)
 
