@@ -1,6 +1,6 @@
 # Users
 
-Each person with an account on your site will show up in the Users section of the WordPress admin. On this page, registered users can be filtered by user role (administrator, editor, etc.) or searched.
+Each person with an account on your site will show up in the *Users* section of the WordPress admin. On this page, registered users can be filtered by user role (administrator, editor, etc.) or searched.
 
 ![Users Table](Screen Shot 2016-01-12 at 3.49.03 PM.png)
 
