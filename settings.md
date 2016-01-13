@@ -18,7 +18,7 @@ The *Reading* settings configure how your site is viewed. You can define whether
 
 The *Discussion* settings define how your readers interact with your site and how your site interacts with other blogs. You can configure pingbacks and trackbacks, whether readers can post comments or not and if so, how those comments are moderated and displayed on your site.
 
-This screen also lets you configure whether the post author should be emailed whenever someone posts a comment on your site. If you are receiving emails whenever someone posts a comment, simply uncheck the box next to *Anyone posts a commen*t within the *E-mail me whenever* section on this screen and then save your changes.
+This screen also lets you configure whether the post author should be emailed whenever someone posts a comment on your site. If you are receiving emails whenever someone posts a comment, simply uncheck the box next to *Anyone posts a comment* within the *E-mail me whenever* section on this screen and then save your changes.
 
 If you would like to be notified whenever a comment is held for moderation, it can be configured on this screen as well within the *E-mail me whenever* section. The email notification is sent to the email address listed on the *General* settings page.
 
