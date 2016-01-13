@@ -34,4 +34,5 @@
 * [Tools](tools.md)
 * [Settings](settings.md)
 * [Shortcodes](shortcodes.md)
+   * [row] and [col]
 
