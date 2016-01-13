@@ -19,6 +19,15 @@ This user guide was prepared specially for {Client Name} to be used with your ne
     * Include any custom fields added.
 * [Pages / Page Fields](page_fields.md)
     * Include any custom fields added.
+* [Appearance](appearange.md)
+    * Include reference to any additional appearance subpages managed by plugins or theme.
+* [Plugins](plugins.md)
+    * Add/remove subsections outlining installed plugins as needed.
+    * Rename site framework plugin name if necessary. Update description to include framework module features.
+* [Settings](settings.md)
+    * Include reference to any additional settings subpages managed by plugins or theme.
+* [Shortcodes](shortcodes.md)
+    * Include articles for any custom shortcodes added.
 
 ### Other Notes
 
