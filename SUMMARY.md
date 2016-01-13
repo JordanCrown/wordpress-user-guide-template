@@ -29,5 +29,5 @@
 * [Appearance](appearance.md)
 * [Plugins](plugins.md)
 * [Users](users.md)
-   * Adding a New User
+   * [Adding a New User](adding_a_new_user.md)
 
