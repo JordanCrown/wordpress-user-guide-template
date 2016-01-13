@@ -1,2 +1,3 @@
 # Tools
 
+The Tools section of the WordPress admin provides some handy administration tools. Most of the time though, they're used when setting up or configuring your site and so as such, they shouldn't need to be accessed. That being said, the descriptions provided within the WordPress admin for each of the available tools should be enough to give you an idea of their function should you need to use them.
