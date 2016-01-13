@@ -31,4 +31,5 @@
 * [Users](users.md)
    * [Adding a New User](adding_a_new_user.md)
    * [Managing User Details](managing_user_details.md)
+* Tools
 
